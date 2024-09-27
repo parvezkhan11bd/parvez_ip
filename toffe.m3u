@@ -2,3 +2,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Sports", Star Sports
 https://proximity-fire-team.xyz/XTRAA/m3u8.php/starhindi.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="", Channel 24
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
