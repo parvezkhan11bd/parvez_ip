@@ -61,4 +61,11 @@ https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=firEWgRCIXEkJa
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DbWGdRr/images.webp" group-title="",G TV
 https://cdn2.ihub.live/GTV/tracks-v1a1/mono.m3u8?token=f88cb5817c7e890de73cea95d53015f2ac81dc49-7d6fbfb91b7a8612e1252f9dc50c28cb-1727559337-1727548537
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JXZj0Q/1662487622-mdshamimislam.png" group-title="",Jamuna TV
+http://tv.cloudcdn.me:80/live.ts?channelId=100&uid=3788&deviceMac=00:1A:79:6D:8A:C6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5YZ8Mph/images-2.webp" group-title="",SA TV
+http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
