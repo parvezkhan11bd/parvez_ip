@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://feji.us/edda3w" group-title="", BTV
 http://176.119.29.52/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
+#EXTINF:-1 tvg-logo="https://feji.us/cdx8g1" group-title="", Peace TV
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://s.id/Kay06" group-title="", ATN Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
