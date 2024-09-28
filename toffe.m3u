@@ -32,7 +32,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feji.us/j91nnx" group-title="", Bangla Vision
-http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
+https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2dH8wR1/Ekattor-TV-logo.png" group-title="", Ekattor TV
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
@@ -50,7 +50,7 @@ https://mytvbangla.com/0.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DGPHz5F/images.png" group-title="", NTV
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
 
 
 
