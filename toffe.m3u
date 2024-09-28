@@ -86,3 +86,12 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qdfC3g9/images-2.jpg" group-title="",News 24
 https://tinyurl.com/news24tvbdohmy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTHV4bX/download.jpg" group-title="",Gaan Bangla
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
