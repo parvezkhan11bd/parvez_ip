@@ -61,6 +61,9 @@ https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=firEWgRCIXEkJa
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DbWGdRr/images.webp" group-title="",G TV
 https://cdn2.ihub.live/GTV/index.m3u8?token=a90cd3da23a66bafc8594a8241da43b8e2166bfe-f5902056317e608a05c558fe273dd264-1727633628-1727622828
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
+http://103.190.85.38/hls/tsports.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
 
