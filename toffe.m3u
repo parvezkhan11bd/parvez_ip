@@ -44,7 +44,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vptrn4R/Mytv-Bangladesh-Logo.png" group-title="", My TV
-https://mytvbangla.com/0.m3u8
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=my_tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8mycfQ/Independent-Television-Logo-svg.png" group-title="", Independent TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v
@@ -59,7 +59,7 @@ https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=ek-PR7nlcKvQh
 https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=firEWgRCIXEkJaQDfhjU4Q&expires=1727765473&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DbWGdRr/images.webp" group-title="",G TV
-https://cdn2.ihub.live/GTV/tracks-v1a1/mono.m3u8?token=f88cb5817c7e890de73cea95d53015f2ac81dc49-7d6fbfb91b7a8612e1252f9dc50c28cb-1727559337-1727548537
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
