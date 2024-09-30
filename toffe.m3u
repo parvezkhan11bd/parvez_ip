@@ -146,3 +146,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="",Jalsha Movies
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xYMtTC9/Color-Cineplex-HD.png" group-title="",Colors Cineplex HD
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774155|Referer=https://neestreamtv.com
