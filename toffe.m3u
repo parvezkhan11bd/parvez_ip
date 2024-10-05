@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feji.us/edda3w" group-title="", BTV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
 
 #EXTINF:-1 tvg-logo="https://feji.us/cdx8g1" group-title="", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -29,7 +29,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="", Ekushey ETV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=Bk4sIdCx81zmC9ilJeRTxA&expires=1727988276&user=98fbbc7885a9470e920abab5d870f7c3
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Kh5cvxM/Rtv-bangladesh-svg.png" group-title="", R TV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
@@ -38,7 +38,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2dH8wR1/Ekattor-TV-logo.png" group-title="", Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=DzYgLCz-4KC8H8-CkvGzag&expires=1728109300&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=xx9qS0DLRu3mWng3c0uckg&expires=1728367293&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m07trZ0/download.jpg" group-title="", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -59,7 +59,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LQr3WBM/BIJOY-TV-Logo-BD.png" group-title="", Bijoy TV
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=Qaca5zFdSLPsuM-quiDPOw&expires=1727987765&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=6bcoKr5Jf8aYVUv7BQF8UQ&expires=1728367405&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DbWGdRr/images.webp" group-title="",G TV
 https://hotflix-bd.online/GTV/tracks-v1a1/mono.m3u8?remote=103.154.16.32&token=58ba91c85d3ebbd597721149634d4fcf9c5a02b1-c0835931b44a10c01d142b7d045484d8-1725656790-1725645990
@@ -80,7 +80,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6yk3MZ1/images.png" group-title="",Channel I
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVPFXFT/download.png" group-title="",Desh TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
@@ -100,7 +100,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
-http://opplex.tv:8080/live/Tahir9221/Raza657586/245920.ts
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g457N3b/unnamed.png" group-title="",Makkah Live
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
