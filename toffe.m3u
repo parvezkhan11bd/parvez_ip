@@ -120,6 +120,9 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
+http://217.20.112.199/starjalshahd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qRG0dVb/f7b19964721603-Y3-Jvc-Cw1-OTUs-NDY2-LDEx-OSw4-Mw.jpg" group-title="",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8|Referer=https://d1g8wgjurz8via.cloudfront.net//&key=BDStreamHub
 
