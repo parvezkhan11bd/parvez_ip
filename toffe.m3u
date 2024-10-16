@@ -135,6 +135,8 @@ https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=VU6GYxZvt9KOq
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x7NkJJH/images-2.jpg" group-title="", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6GTyB1/images-3.jpg",Discovery Kids
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_20.m3u8
 
 #EXTINF:-1 tvg-logo="https://feji.us/wrbc8e" group-title="", Sananda TV
 http://54.38.79.60:2020/sananda/index.m3u8
