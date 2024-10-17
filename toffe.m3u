@@ -157,9 +157,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-1 tvg-logo="https://imotv.online/uploads/tv_image/mon-tv-bangla.png" group-title="Grope Name", Mon-tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pL56cZZ/images-1.jpg" group-title="", Tara TV
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V2Mt10M/images-1.png" group-title="",Al Jazeera News 
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
