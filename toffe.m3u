@@ -149,7 +149,13 @@ https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=VU6GYxZvt9KOq
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6GTyB1/images-3.jpg",Discovery Kids
-https://matharchod.vercel.app/api/Discovery_Kids.m3u8
+https://matharchod.vercel.app/api/Discovery_Kids.m3u
+
+#EXTINF:-1 tvg-logo="https://bdixtv24.com/uploads/tv_image/amar-digital.png" group-title="Grope Name", Amar-digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imotv.online/uploads/tv_image/mon-tv-bangla.png" group-title="Grope Name", Mon-tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pL56cZZ/images-1.jpg" group-title="", Tara TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
