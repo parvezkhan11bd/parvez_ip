@@ -59,16 +59,16 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FUzpfaIxENOSfs8Tu0cw0A&expires=1729542587&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://s.id/VabNy" group-title="", Channel 24
-
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=o6Rk1ZfRNmF2LS9NcsFLZA&expires=1729551120&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://s.id/pytF4" group-title="",ATN News
-
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=e9vVkoxAVicFH2y1s-sc6A&expires=1729551074&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RLjMkt/images.jpg" group-title="", Channel 9
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K7kd4WS/images-1.jpg" group-title="", Boishakhi TV
-
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=StZORSvro3b_UthpZaiVQg&expires=1729551166&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://feji.us/j91nnx" group-title="", Bangla Vision
 
@@ -107,7 +107,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6yk3MZ1/images.png" group-title="",Channel I
-
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=euILkg3fAXdfGIPQgfHl_w&expires=1729551203&user=98fbbc7885a9470e920abab5d870f7c3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVPFXFT/download.png" group-title="",Desh TV
@@ -144,7 +144,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjM4OjQ0IFBNJmhhc2hfdmFsdWU9cTB2QW9hcjBvZXBRdE1sNnF4dGhPQT09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mc474bP/images-1.png" group-title="",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=QUIJQfjEXpa5svE2yYLCwg&expires=1729551009&user=98fbbc7885a9470e920abab5d870f7c3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x7NkJJH/images-2.jpg" group-title="", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
