@@ -29,7 +29,7 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
-https://hotflixbd.online/T-Sports/index.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=e1oskQ7LEcSCtZZWSqBbpA&expires=1729653440&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://feji.us/cdx8g1" group-title="", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
@@ -92,7 +92,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM2OjM0IFBNJmhhc2hfdmFsdWU9Z2pFOGtuQmRmSVE4Qk9MQVJDbVJ1UT09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m0GMwF8/images.png" group-title="",G TV
-https://hotflixbd.online/GTV/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
 
@@ -210,10 +210,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 SONY 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1
-https://hotflixbd.online/Ten1/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdgkfPR/Picsart-24-10-20-13-47-05-617.jpg" group-title="",Ten 2
-https://hotflixbd.online/Ten2/index.m3u8
+
 
 
 
