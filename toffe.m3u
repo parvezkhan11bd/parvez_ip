@@ -206,6 +206,18 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
+
+SONY 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/61PZsqP/178x0-icon.png" group-title="",Ten 1
+https://hotflixbd.online/Ten1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q82w9Gv/187x0-icon.png" group-title="",Ten 2
+https://hotflixbd.online/Ten2/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEGnGZmFWIGFTmLmtjIcsip2xO05sTdxiBumd2iYUcWtKBQbRjNOds6LT&s=10", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 
