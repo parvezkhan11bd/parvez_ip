@@ -11,7 +11,7 @@ https://puc2.mylife1.top:8088/mobile/stream4_160p/playlist.m3u8?id=13&pk=ef7dc92
 https://my-iptv-alpha.vercel.app/video/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
-https://live2.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=e1oskQ7LEcSCtZZWSqBbpA&expires=1729653440&user=811838a63b224e85b02b925b31d0fece
