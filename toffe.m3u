@@ -9,6 +9,8 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=sllfd45v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",Live Cricket
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tmD03TM/Picsart-24-10-20-22-18-12-740.jpg" group-title="", Football Live
 http://45.90.106.98/digisport2/index.m3u8
