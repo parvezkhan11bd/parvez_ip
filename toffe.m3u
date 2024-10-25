@@ -126,7 +126,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729889804/ei/r
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
-http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8|Referer=http://global.ncare.live/
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8|Referer=http://global.ncare.live/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g457N3b/unnamed.png" group-title="",Makkah Live
 .
