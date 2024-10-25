@@ -173,6 +173,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3Fv2jxV/images-1.jpg" group-title="", BBC Earth 
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 
