@@ -155,6 +155,9 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NSqdkXT/download.jpg" group-title="", South Movies
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 
