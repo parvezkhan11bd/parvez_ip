@@ -152,8 +152,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6GTyB1/images-3.jpg",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WgVv8xd/Kids-Creation-Logo-1.png" group-title="",Pogo
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WgVv8xd/Kids-Creation-Logo-1.png" group-title="",Kids Creation 
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jymzyFS/images-2.jpg" group-title="",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
