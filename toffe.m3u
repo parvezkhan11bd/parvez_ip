@@ -170,6 +170,9 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VQ1zmtM/images.png" group-title="", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYcY3DY/images.jpg" group-title="",Movies Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
