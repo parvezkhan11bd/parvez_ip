@@ -182,7 +182,7 @@ https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MPk8L9/images-4.jpg" group-title="", Sony Aath
-https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
@@ -199,7 +199,7 @@ Documentary
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7TRHHm/images-1.jpg" group-title="", BBC Earth 
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M5KZdNV/images-1.jpg" group-title="",Love Nature
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
@@ -237,15 +237,15 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 SONY 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7YyxS3m/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLFjYp/Sony-MAX.png" group-title="",Sony Max
-https://starshare.live:443/live/3569087360/6542246996/98857.m3u8
-https://toffee.iptvbd.xyz/api/sony_max.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F6Kkqnb/162x0-icon.png" group-title="",Sony Max HD
-https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mHfTm0J/images.jpg" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
