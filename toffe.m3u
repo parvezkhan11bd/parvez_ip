@@ -239,8 +239,12 @@ SONY
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZgLFjYp/Sony-MAX.png" group-title="",Sony Max
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F6Kkqnb/162x0-icon.png" group-title="",Sony Max HD
+https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FhYxsrQ/images.jpg" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
