@@ -160,6 +160,9 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5QnP7t/images-2-1.jpg" group-title="",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/syDbVbq/image.png" group-title="", Space Toon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PmsGQ5j/download.jpg" group-title="Grope Name", Amar-digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
