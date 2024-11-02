@@ -195,7 +195,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://toffee.iptvbd.xyz/api/sony_aath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha
-https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=6631ca11480a32637ee251a4791ff3b566967533-04a385aa464a7b4edb7f36634be08d37-1730530009-1730519209
+
+https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=d313d92abd63a501d764ab4b85aedeb9cc64b017-6210a5f68466cf2c720e31b610399c7f-1730563365-1730552565
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=w4pQJ_emaMaXpGaM9ojqCA&expires=1730736069&user=98fbbc7885a9470e920abab5d870f7c3
@@ -237,7 +238,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="",Jalsha Movies
-https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=aa23354771eb49c6ae10668d577e0df491e76266-f1d0896fd0ca589269d096004e48c789-1730530001-1730519201
+https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=a90c43b280dafdc2f0377dfac318e37d397d620f-9d82a922794a31a1b4e451a446abb3ed-1730563357-1730552557
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
