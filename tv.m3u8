@@ -77,7 +77,7 @@ http://103.175.242.10:8080/hls/bijoy/index.m3u8
 https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KKqdSbq/images-1.webp" group-title="",DBC News
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+http://bapatv.live:8080/dbc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6JXZj0Q/1662487622-mdshamimislam.png" group-title="",Jamuna TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
@@ -89,7 +89,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6yk3MZ1/images.png" group-title="",Channel I
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjUzOjIzIFBNJmhhc2hfdmFsdWU9QSsvTFNZQWxOblhKaHhWcmtrdjIzZz09JnZhbGlkbWludXRlcz00MA==
+http://bapatv.live:8080/channeli/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVPFXFT/download.png" group-title="",Desh TV
@@ -206,13 +206,11 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 Kolkata
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+http://bapatv.live:8080/colorsbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla
-https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z8p4QBv/images.png" group-title="",TV9Bangla
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+http://bapatv.live:8080/colorshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema
 
