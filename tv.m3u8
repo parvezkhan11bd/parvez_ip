@@ -8,7 +8,7 @@ http://bapatv.live:8080/tsports2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m07trZ0/download.jpg" group-title="", Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+http://103.175.242.10:8080/deepto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJKSbwN/images.png" group-title="", Asian TV
 http://103.175.242.10:8080/hls/asian/index.m3u8
@@ -136,7 +136,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPw2Rt/images-3.jpg",Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+http://103.175.242.10:8080/discoverkids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WgVv8xd/Kids-Creation-Logo-1.png" group-title="",Kids Creation 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -187,7 +187,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 Documentary 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
-https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+http://bapatv.live:8080/discovery/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7TRHHm/images-1.jpg" group-title="", BBC Earth 
 https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
@@ -219,7 +219,7 @@ http://bapatv.live:8080/colorshd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
+http://bapatv.live:8080/ch-dubai/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
 https://cdn3.pishow.tv/live/283/master.m3u8  
