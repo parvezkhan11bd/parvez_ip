@@ -246,7 +246,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdWvdpG/Star-Plus-logo-2018.png" group-title="",Star Plus
-
+http://bapatv.live:8080/starplus/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEGnGZmFWIGFTmLmtjIcsip2xO05sTdxiBumd2iYUcWtKBQbRjNOds6LT&s=10", B4U Movies
