@@ -5,10 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports 
 http://bapatv.live:8080/tsports2/tracks-v1a1/mono.m3u8
 
-Bangladesh 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="", Peace TV
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m07trZ0/download.jpg" group-title="", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -247,9 +244,8 @@ https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mHfTm0J/images.jpg" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-Music
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lkt2wF3/channels4-profile.jpg" group-title="",Hum TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdWvdpG/Star-Plus-logo-2018.png" group-title="",Star Plus
 
 
 
