@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=st=1733638927~exp=1733639227~acl=*~id=269e935c-5608-4f68-9e2a-4dd6a765f630~hmac=327583d8376aeb0f539271c92153a33e009a82ce00892a405ea5dbaab4e818e2&originpath=/linear/hls/pb/event/biQJgf06SJCitj-nd502ow/stream/c4d1c1bd-b419-41f5-9047-e55f684a4c2f:TPE2/master.m3u8
+https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg" group-title="",ICC T20 Women
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.m3u8
